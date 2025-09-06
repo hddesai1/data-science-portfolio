@@ -140,4 +140,4 @@ This foundational workflow can be readily extended:
 
 ---
 
-*Day 88 of #100DaysOfDataScience successfully demonstrated building a comprehensive data analysis pipeline visually using KNIME Analytics Platform. A powerful testament to low-code/no-code data science! - Vatsal Parikh*
+*Day 88 of #100DaysOfDataScience successfully demonstrated building a comprehensive data analysis pipeline visually using KNIME Analytics Platform. A powerful testament to low-code/no-code data science! - Gravin Patel*
