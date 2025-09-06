@@ -274,7 +274,7 @@ Below is a simplified diagram illustrating how agents interact within the system
 
 ![image](https://github.com/user-attachments/assets/231500f8-10d0-4c6c-a1ba-a7231e1405c3)
 
----
+----
 
 ## Chatting with our AI Agent Live Working Example 
 
