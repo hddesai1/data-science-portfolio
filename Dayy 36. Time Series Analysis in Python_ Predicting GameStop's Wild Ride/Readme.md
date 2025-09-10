@@ -94,6 +94,6 @@ On Day 36, I explored the world of **Time Series Analysis** using **Python** to 
 
 This project was a fantastic opportunity to merge **data science** with **financial analysis**, showcasing how historical data can drive meaningful predictions. By combining robust **time series techniques** with **financial insights**, I developed a powerful tool for understanding stock price behaviors, especially in the context of **meme stocks** like GameStop.  
 
----
+----
 
 Thanks for following along! If you're into **data science**, **finance**, or just love a good stock market story, let’s connect! 😊  
