@@ -1,0 +1,60 @@
+# Data files - too large for portfolio
+*.csv
+*.pkl
+*.xlsx
+*.xls
+*.json
+*.txt
+*.gz
+*.zip
+*.jpg
+*.jpeg
+*.png
+*.pdf
+*.pbix
+*.html
+
+# Python temporary/refactor scripts
+batch_update_names.py
+refactor_*.py
+rename_*.py
+
+# Setup/migration scripts (not needed in portfolio)
+setup-my-repo.ps1
+start-fresh-repo.ps1
+SETUP_GUIDE.md
+UNDERSTANDING_GIT_HISTORY.md
+MIGRATE_TO_NEW_REPO.md
+README_TEMPLATE.md
+
+# Old duplicate folders (Day X folders)
+Day*/
+Dayy*/
+
+# Git and IDE files
+.git/
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv
+env/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
